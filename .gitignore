@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.pt
+*.pth
+*.npy
+*.npz
+*.egg-info/
+log/
+*.log
+nohup.out
+.vscode/
+.idea/
+.DS_Store
+venv*/
