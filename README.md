@@ -114,8 +114,8 @@ If you find this work useful, please cite:
 
 ```bibtex
 @article{liu2025fracdti,
-  title={FracDTI: Fractional-Order Graph Diffusion for Drug-Target Interaction Prediction},
-  author={Liu, Jiongxin},
+  title={FracDTI: Asymmetric Fractional-Order Graph Diffusion for Cold-Start Drug-Target Interaction Prediction},
+  author={Liu, Jiongxin and Le, Jiameng and Wei, Chuanru and Liu, Mingming and Yin, Zixuan and Luo, Yongnan and Qin, Hong and Yu, Guangbo},
   year={2025}
 }
 ```
